@@ -15,7 +15,7 @@ There are no prerequisites for this course.
 
 ## Course Description
 
-hƿæt ƿe gardena in geardagum þeodcyninga þrym gefrunon hu ða æþelingas ellen fremedon…
+*hƿæt ƿe gardena in geardagum þeodcyninga þrym gefrunon hu ða æþelingas ellen fremedon…*
 
 Those are the first words of the Old English epic *Beowulf,* and in this class, you will learn to read them. The language of Rohan in the novels of Tolkien, Old English speaks of long, cold, and lonely winters; of haunting beauty found in unexpected places; and of unshakable resolve in the face of insurmountable odds. It is, in short, the perfect language for MIT students.
 
@@ -25,27 +25,29 @@ After quickly learning the basics of grammar and vocabulary, we will read greate
 
 ### Required
 
-Peter Baker, *Introduction to Old English,* 3<sup>rd</sup> edition (Wiley-Blackwell), 2012. ISBN: 9780470659847. \[Preview with [Google Books](https://www.google.com/books/edition/Introduction_to_Old_English/plIqudth2IwC?hl=en&gbpv=1)\]
+Peter Baker, *Introduction to Old English,* 3<sup>rd</sup> edition. Wiley-Blackwell, 2012. ISBN: 9780470659847. \[Preview with [Google Books](https://www.google.com/books/edition/Introduction_to_Old_English/plIqudth2IwC?hl=en&gbpv=1)\]
 
-Bruce Mitchell and Fred C. Robinson, A *Guide to Old English,* 8<sup>th</sup> edition (Wiley-Blackwell), 2011. ISBN: ‎9780470671078. \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
+Bruce Mitchell and Fred C. Robinson, A *Guide to Old English,* 8<sup>th</sup> edition. Wiley-Blackwell, 2011. ISBN: ‎9780470671078. \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
 
-Stephen Barney, *Word-Hoard,* 2<sup>nd</sup> edition (Yale), 1985. ISBN: ‎9780300035063. 
+Stephen Barney, *Word-Hoard,* 2<sup>nd</sup> edition. Yale, 1985. ISBN: ‎9780300035063. 
 
-*Beowulf,* trans. Seamus Heaney (Norton), 2001. ISBN: ‎9780393320978. \[Preview with [Google Books](https://www.google.com/books/edition/Beowulf_a_New_Verse_Translation_Bilingua/m-7crEM3A0AC?hl=en&gbpv=1)\]
+*Beowulf,* trans. Seamus Heaney, Norton, 2001. ISBN: ‎9780393320978. \[Preview with [Google Books](https://www.google.com/books/edition/Beowulf_a_New_Verse_Translation_Bilingua/m-7crEM3A0AC?hl=en&gbpv=1)\]
 
 ### Optional
 
-Greg Delanty and Michael Matto, eds. *The Word Exchange: Anglo-Saxon Poems in Translation* (Norton), 2011. ISBN: ‎9780393342413. \[Preview with [Google Books](https://www.google.com/books/edition/The_Word_Exchange_Anglo_Saxon_Poems_in_T/qEWVeKy3vtMC?hl=en&gbpv=1)\]
+Greg Delanty and Michael Matto, eds. *The Word Exchange: Anglo-Saxon Poems in Translation.* Norton, 2011. ISBN: ‎9780393342413. \[Preview with [Google Books](https://www.google.com/books/edition/The_Word_Exchange_Anglo_Saxon_Poems_in_T/qEWVeKy3vtMC?hl=en&gbpv=1)\]
 
-J.R. Clark-Hall, A *Concise Anglo-Saxon Dictionary* (Toronto), 1961. ISBN: 9780802065483. \[Preview with [Google Books](https://www.google.com/books/edition/A_Concise_Anglo_Saxon_Dictionary/eLYiXNHnQWsC?hl=en&gbpv=1)\]
+J.R. Clark Hall, A *Concise Anglo-Saxon Dictionary.* Toronto, 1961. ISBN: 9780802065483. \[Preview with [Google Books](https://www.google.com/books/edition/A_Concise_Anglo_Saxon_Dictionary/eLYiXNHnQWsC?hl=en&gbpv=1)\]
 
-### Comments About These Books
+### Comments about These Books
 
 Our main textbook will be Baker's *Introduction to Old English* (IOE), but I am asking you to get Mitchell and Robinson (M&R) as well because their handling of the grammar is more detailed and technical; that may appeal to some of you, and all of us will benefit from having the same grammatical principles laid out in different ways. (M&R also includes several texts we will be working with that IOE inexplicably does not, including *Beowulf).*
 
 *Word-Hoard* is a wonderful guide to the most common word-groups of the Old English poetic corpus. Its word-groups are organized with attention to shared etymologies that will help anyone who has studied another Indo-European language, and will interest anyone with any degree of native curiosity (which you clearly have, or you wouldn't have signed up for Old English). Its word-groups will also serve as the basis of your daily vocabulary quizzes.
 
-Finally, I am assigning Seamus Heaney's translation of *Beowulf,* whose popularity is well-deserved despite its occasional idiosyncrasies. (The version that I assign also includes the Old English text, which will prove handy when we come to work with the original.) You may acquire any edition of these textbooks that has the assigned readings, but it is YOUR responsibility to make sure that it does indeed have them (consult the {{% resource_link "a0af5939-e450-481c-9869-3183e49c4fb6" "Readings" %}} section); one thing editors sometimes do between editions is change up reading selections.
+Finally, I am assigning Seamus Heaney's translation of *Beowulf,* whose popularity is well-deserved despite its occasional idiosyncrasies. (The version that I assign also includes the Old English text, which will prove handy when we come to work with the original.) 
+
+You may acquire any edition of these textbooks that has the assigned readings, but it is YOUR responsibility to make sure that it does indeed have them (consult the {{% resource_link "a0af5939-e450-481c-9869-3183e49c4fb6" "Readings" %}} section); one thing editors sometimes do between editions is change up reading selections.
 
 I have also assigned two optional texts. *The Word Exchange* is a very cool set of loose, poetic renderings of the entire Old English poetic corpus (save *Beowulf,* of which many translations exist). We will discuss a few of these early in the semester while we're knee-deep in grammar, but those who are interested (or completionists) may be interested in the whole volume. Finally, Clark-Hall is the standard "intermediate" dictionary if you want a hard copy.
 
@@ -75,7 +77,9 @@ Attendance, participation, and preparation
 
 ### Unit One: Old English Grammar and Short Prose
 
-### *Session 1: Course introduction; preliminary discussion of case system and pronunciation*
+### *Session 1*
+
+Course introduction; preliminary discussion of case system and pronunciation.
 
 ### *Session 2*
 
@@ -123,7 +127,7 @@ Discussion of mock exams.
 
 ### *Session 10*
 
-Exam 1 (On Cases, Declension of Pronouns, Noun and Verb Form Recognition, Principles of Syntax, and WH groups 1–60; will also include basic assisted and sight translation).
+Exam 1 (on cases, declension of pronouns, noun and verb form recognition, principles of syntax, and WH groups 1–60; will also include basic assisted and sight translation).
 
 ### Unit Two: Longer Prose and Short Poems
 
@@ -157,37 +161,13 @@ Discussion of mock exams.
 
 ### *Session 17*
 
-Exam 2 (Vocabulary, WH groups 1–135, and Translation, assisted and sight)
+Exam 2 (Vocabulary, WH groups 1–135, and translation, assisted and sight)
 
 ### Unit Three: Longer Poems
 
-### *Session 18*
+### *Session 18–24*
 
-Vocab quiz.
-
-### *Session 19*
-
-Vocab quiz.
-
-### *Session 20*
-
-Vocab quiz.
-
-### *Session 21*
-
-Vocab quiz.
-
-### *Session 22*
-
-Vocab quiz.
-
-### *Session 23*
-
-Vocab quiz.
-
-### *Session 24*
-
-Vocab quiz.
+Vocab quizzes.
 
 ### *Session 25*
 
@@ -197,4 +177,4 @@ Discussion of Exam 3; subject evaluations to be completed in class.
 
 ### *Session 26*
 
-Exam 3 (Covering all of *Word-Hoard* and Translation, assisted and sight).
+Exam 3 (covering all of *Word-Hoard* and translation, assisted and sight).

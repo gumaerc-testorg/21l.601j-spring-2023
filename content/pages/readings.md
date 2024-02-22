@@ -5,19 +5,19 @@ draft: false
 title: Readings
 uid: a0af5939-e450-481c-9869-3183e49c4fb6
 ---
-\[B\] *Beowulf,* trans. Seamus Heaney (Norton), 2001. ISBN: ‎9780393320978. 
+\[B\] *Beowulf,* trans. Seamus Heaney. Norton, 2001. ISBN: ‎9780393320978. 
 
-\[IOE\] Peter Baker, *Introduction to Old English,* 3<sup>rd</sup> edition (Wiley-Blackwell), 2012. ISBN: 9780470659847. 
+\[IOE\] Peter Baker, *Introduction to Old English,* 3<sup>rd</sup> edition. Wiley-Blackwell, 2012. ISBN: 9780470659847. 
 
-\[M & R\] Bruce Mitchell and Fred C. Robinson, A *Guide to Old English,* 8<sup>th</sup> edition (Wiley-Blackwell), 2011. ISBN: ‎9780470671078. 
+\[M & R\] Bruce Mitchell and Fred C. Robinson, A *Guide to Old English,* 8<sup>th</sup> edition. Wiley-Blackwell, 2011. ISBN: ‎9780470671078. 
 
-\[WE\] Greg Delanty and Michael Matto, eds. *The Word Exchange: Anglo-Saxon Poems in Translation* (Norton), 2011. ISBN: ‎9780393342413. 
+\[WE\] Greg Delanty and Michael Matto, eds., *The Word Exchange: Anglo-Saxon Poems in Translation.* Norton, 2011. ISBN: ‎9780393342413. 
 
-\[WH\] Stephen Barney, *Word-Hoard,* 2<sup>nd</sup> edition (Yale), 1985. ISBN: ‎9780300035063. 
+\[WH\] Stephen Barney, *Word-Hoard,* 2<sup>nd</sup> edition. Yale, 1985. ISBN: ‎9780300035063. 
 
 ## Unit One: Old English Grammar and Short Prose
 
-### Session 1: Course introduction; preliminary discussion of case system and pronunciation
+### Session 1
 
 No readings assigned.
 
@@ -41,13 +41,15 @@ No readings assigned.
 
 \[WH\] Word Groups 7–12.
 
+[Magic Paradigm Sheet (PDF)](http://www.oldenglishaerobics.net/resources/magic_letter.pdf)
+
 ### Session 4
 
 \[IOE\], pp. 50–63 (Nouns). 
 
 \[M & R\], pp. 20–30 (Pronouns). \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
 
-Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old English*. 2<sup>nd</sup> ed. Yale University Press, 1998. ISBN: ‎9780300069952. 
+Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old English,* 2<sup>nd</sup> edition. Yale University Press, 1998. ISBN: ‎9780300069952. 
 
 \[WH\] Word Groups 13–22.
 
@@ -149,7 +151,7 @@ No readings assigned.
 
 ### Session 18
 
-\[IOE\], Text 13, *The Dream of the Rood,* lines 1**–**49.
+\[IOE\], Text 13, *The Dream of the Rood,* lines 1–49.
 
 \[WH\] Word Groups 136–42.
 
@@ -179,7 +181,7 @@ No readings assigned.
 
 \[B\] The Fight with Grendel (lines 702b–745a).
 
-\[M & R\], p. 297–99.
+\[M & R\], pp. 297–99.
 
 \[WH\] Word Groups 186–96.
 
@@ -193,7 +195,7 @@ No readings assigned.
 
 \[B\] The Death of Grendel (lines 791–852).
 
-\[M & R\], p. 299–301.
+\[M & R\], pp. 299–301.
 
 \[WH\] Word Groups 211–27. (Congratulations, you now know the 2000 most commonly used words of Old English poetry!!!)
 
@@ -201,7 +203,7 @@ No readings assigned.
 
 \[B\] The Lay of the Last Survivor and Beowulf's Funeral (lines 2247–66, and 3157–82).
 
-\[M & R\], p. 307–08.
+\[M & R\], pp. 307–08.
 
 ### Session 26
 

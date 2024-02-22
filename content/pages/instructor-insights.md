@@ -6,7 +6,7 @@ draft: false
 title: Instructor Insights
 uid: 00287e91-1c5d-408d-a27b-65c2c99a0a94
 ---
-### **Instructor Interview**
+## Instructor Interview
 
 Below, Prof. Arthur Bahr describes various aspects of how he taught *21L.601J Old English and Beowulf* in the spring of 2023.
 
@@ -17,22 +17,26 @@ Below, Prof. Arthur Bahr describes various aspects of how he taught *21L.601J Ol
 - {{% resource_link "f65cab6a-23fd-4f8d-96fa-59ec4dae2979" "How the Course Has Evolved" %}}
 - {{% resource_link "5b222837-c66c-40a5-900b-4b42ce969820" "Plans for Future Iterations of the Course" %}}
 
-### **Curriculum Information**
+For insights into how Prof. Bahr taught an earlier iteration of this course, see the page linked below.
 
-#### **Prerequisites**
+- {{% resource_link "1b229c0f-bd5c-41ea-998e-9d45e1c1d754" "Spring 2014 Insights" %}}
+
+## Curriculum Information
+
+### Prerequisites
 
 None
 
-#### **Requirements Satisfied**
+### Requirements Satisfied
 
 - 21L.601J can be applied toward a [Bachelor of Science in Literature](http://catalog.mit.edu/schools/humanities-arts-social-sciences/literature/#literature-bs-course-21-l), a [Bachelor of Science in Linguistics](https://linguistics.mit.edu/undergraduate/), or an [interdisciplinary concentration in Ancient and Medieval Studies](https://shass.mit.edu/undergraduate/interdisciplinary/conc/ancient-medieval), but is not required.
 - 21L.601J counts toward MIT's [General Institute Requirement in Humanities and Social Sciences](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement).
 
-#### **Offered**
+### Offered
 
 About once a year
 
-### **Assessment and Grading**
+## Assessment and Grading
 
 Students’ grades were based on the following activities:
 
@@ -40,24 +44,24 @@ Students’ grades were based on the following activities:
 - 10% Daily vocabulary quizzes
 - 15% Attendance, participation, and preparation
 
-### **Student Information**
+## Student Information
 
-#### **Enrollment**
+### Enrollment
 
 10 students
 
-#### **Student Background**
+### Student Background
 
 Most were juniors or seniors, but there were a few sophomores and one first-year student. Almost all had primary majors in science or engineering, but most had a second major in the School of Humanities and Social Sciences, concentrating in ancient and medieval studies (AMS), linguistics, and/or literature.
 
-### **How Student Time Was Spent**
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-#### **Lectures**
+### Lectures
 
 - Met twice per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
 
-#### **Out of Class**
+### Out of Class
 
 - Outside of class, students completed the assigned readings and studied vocabulary and grammar in preparation for exams and quizzes.
