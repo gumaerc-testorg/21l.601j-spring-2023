@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/21l-601j-old-english-and-beowulf-spring-2023/21l601-lecture-6_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/21l-601j-old-english-and-beowulf-spring-2023/21l601-lecture-6_360p_16_9.mp4
 file_size: 105531942
 file_type: video/mp4
 image_metadata:

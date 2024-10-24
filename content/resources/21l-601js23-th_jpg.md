@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/21l-601j-old-english-and-beowulf-spring-2023/21l-601js23-th.jpg
+file: /ol-ocw-studio-app/courses/21l-601j-old-english-and-beowulf-spring-2023/21l-601js23-th.jpg
 file_size: 6942
 file_type: image/jpeg
 image_metadata:
