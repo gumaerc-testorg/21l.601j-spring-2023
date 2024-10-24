@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/21l-601j-old-english-and-beowulf-spring-2023/mit21l_601js23_mock_exam_sentence_2_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/21l-601j-old-english-and-beowulf-spring-2023/mit21l_601js23_mock_exam_sentence_2_360p_16_9.mp4
 file_size: 12190114
 file_type: video/mp4
 image_metadata:
