@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21l-601j-old-english-and-beowulf-spring-2023/mit21l_601j_s23_mock_exam01.pdf
+file: courses/old-english-and-beowulf/mit21l_601j_s23_mock_exam01.pdf
 file_size: 174214
 file_type: application/pdf
 image_metadata:
