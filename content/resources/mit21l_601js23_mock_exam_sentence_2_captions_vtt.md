@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21l-601j-old-english-and-beowulf-spring-2023/mit21l_601js23_mock_exam_sentence_2_captions.vtt
+file: courses/old-english-and-beowulf/mit21l_601js23_mock_exam_sentence_2_captions.vtt
 file_size: 7036
 file_type: text/vtt
 image_metadata:
