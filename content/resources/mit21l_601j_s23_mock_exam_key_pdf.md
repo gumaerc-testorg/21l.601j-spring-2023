@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/old-english-and-beowulf/mit21l_601j_s23_mock_exam_key.pdf
+file: /ol-ocw-studio-app/courses/21l-601j-old-english-and-beowulf-spring-2023/mit21l_601j_s23_mock_exam_key.pdf
 file_size: 222653
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Supplemental Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '21L.601J/24.916J Old English and Beowulf: Mock Exam Key'
