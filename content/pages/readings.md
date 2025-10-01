@@ -23,7 +23,7 @@ No readings assigned.
 
 ### Session 2
 
-\[IOE\], pp. 1–40 (Pronunciation, Grammar Review, and the Case System). \[Preview with [Google Books](https://www.google.com/books/edition/Introduction_to_Old_English/plIqudth2IwC?hl=en&gbpv=1)\]
+\[IOE\], pp. 1–40 (Pronunciation, Grammar Review, and the Case System). \[Preview with {{% resource_link "002d5d28-e78e-4bd4-a194-afe8a1423aaa" "Google Books" %}}\]
 
 \[M & R\], pp. 55–60 (Word-Formation). 
 
@@ -33,21 +33,21 @@ No readings assigned.
 
 ### Session 3
 
-\[IOE\], pp. 41–49 (Pronouns). \[Preview with [Google Books](https://www.google.com/books/edition/Introduction_to_Old_English/plIqudth2IwC?hl=en&gbpv=1)\]
+\[IOE\], pp. 41–49 (Pronouns). \[Preview with {{% resource_link "002d5d28-e78e-4bd4-a194-afe8a1423aaa" "Google Books" %}}\]
 
-\[M & R\], pp. 17–19 (Pronouns). \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
+\[M & R\], pp. 17–19 (Pronouns). \[Preview with {{% resource_link "4d52f4d3-d0e9-4d1d-815d-ebcde88ff66b" "Google Books" %}}\]
 
 \[WE\] "The Wanderer," and "Deor." 
 
 \[WH\] Word Groups 7–12.
 
-[Magic Paradigm Sheet (PDF)](http://www.oldenglishaerobics.net/resources/magic_letter.pdf)
+{{% resource_link "2d276ca3-439f-482a-aa43-66883bf0b2f7" "Magic Paradigm Sheet (PDF)" %}}
 
 ### Session 4
 
 \[IOE\], pp. 50–63 (Nouns). 
 
-\[M & R\], pp. 20–30 (Pronouns). \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
+\[M & R\], pp. 20–30 (Pronouns). \[Preview with {{% resource_link "4d52f4d3-d0e9-4d1d-815d-ebcde88ff66b" "Google Books" %}}\]
 
 Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old English,* 2<sup>nd</sup> edition. Yale University Press, 1998. ISBN: ‎9780300069952. 
 
@@ -61,7 +61,7 @@ Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old En
 
 \[WH\] Word Groups 23–30.
 
-\[I strongly urge you to use [Old English Aerobics](http://www.oldenglishaerobics.net/) to drill verb forms over the weekend!\]
+\[I strongly urge you to use {{% resource_link "711cd2be-e100-4d61-a84f-946aee55d8f5" "Old English Aerobics" %}} to drill verb forms over the weekend!\]
 
 ### Session 6
 
